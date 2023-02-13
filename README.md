@@ -4,6 +4,9 @@
   
   ![Przykładowy obrazek](lgbtminus.png "Teletubisie")
 
-  
+```python
+      def funkcja(a,b):
+          return a*b
+  ```
 
   # 😩
