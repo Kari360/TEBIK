@@ -1,0 +1,2 @@
+# TEBIK
+Repo do szkoły
